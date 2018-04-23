@@ -1,4 +1,4 @@
-# app
+# Project description and steps to setup
 
 This application lets a user to sign up and sign in. The application is developed using Spring MVC.
 
